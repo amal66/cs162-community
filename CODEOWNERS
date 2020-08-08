@@ -1,0 +1,7 @@
+# declaring myself (Michelle) as the codeowner for all files
+# due to protection settings on master, this will require that
+# I approve any pull requests on master.
+
+# we can further edit this to specific files if necessary.
+
+*       @michlee1337

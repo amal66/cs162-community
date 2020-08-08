@@ -1,0 +1,15 @@
+{
+    "name": "Minerva Community",
+    "description": "An app to connect you with people with similar interests.",
+    "image": "heroku/python",
+    "repository": "https://github.com/minerva-schools/cs162-community",
+    "keywords": ["python", "flask" ],
+    "addons": [ "heroku-postgresql" ],
+    "env": {
+      "SECRET_KEY": {
+        "description": "The secret key for the application.",
+        "generator": "secret"
+      }
+    }
+  }
+  
